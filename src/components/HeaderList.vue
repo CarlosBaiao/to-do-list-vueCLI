@@ -19,7 +19,7 @@ export default {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url(../assets/cidade.jpg);
+  background-image: url(../assets/images/cidade.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50% 45%;
